@@ -1,0 +1,7 @@
+HTML CSS Support
+IntelliSense for CSS class names in HTML
+Live Server
+ESLint
+CodeSnap
+vscode-icons
+Origamid Next   
